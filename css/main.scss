@@ -1,33 +1,30 @@
 ---
-# Main scss file
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
+@charset 'UTF-8';
 
-// Helpers
-@import
-    'helpers/mixins',
-    'helpers/variables';
+@import url(//fonts.googleapis.com/css?family=Roboto:400,400italic,700);
 
-// Base
+// 1. Utilities
 @import
-    'base/reset';
+  'utilities/variables',
+  'utilities/mixins',
+  'utilities/helpers';
 
-// Utilities
+// 2. Vendors
 @import
-    'utilities/layout',
-    'utilities/seperator';
+  'vendor/normalize';
 
-// Components
+// 3. Base
 @import
-    'components/page',
-    'components/article',
-    'components/tag',
-    'components/archives';
+  'base/base',
+  'base/reset',
+  'base/list';
 
-// Vendor
+// 4. Layout
 @import
-    'vendor/highlight';
-
-//layout
-@import
-    'layout/section'
+  'layout/container',
+  'layout/section',
+  'layout/header',
+  'layout/article',
+  'layout/footer';
