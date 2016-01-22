@@ -21,12 +21,12 @@ body {
 }
 
 a {
-  color: #ec2028;
+  color: #C57B57;
   text-decoration: none;
   -webkit-transition: color ease-in-out 0.2s;
   transition: color ease-in-out 0.2s;
 
   @include on-event {
-    color: rgba(#ec2028, .5);
+    color: rgba(#C57B57, .5);
   }
 }
