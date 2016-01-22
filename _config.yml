@@ -1,7 +1,7 @@
 # Site settings
 title: pasuncami
 description: >
-    Some description
+    
 author: Xavi Duran
 email: xadual@gmail.com
 baseurl: "butane" # the subpath of your site, e.g. /blog
