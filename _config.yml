@@ -1,10 +1,10 @@
 # Site settings
-title: pasuncami
+title: related squares
 description: >
-    
+
 author: Xavi Duran
 email: xadual@gmail.com
-baseurl: "/butane" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xdurana.github.io" # the base hostname & protocol for your site
 twitter_username: xdurana
 github_username:  xdurana

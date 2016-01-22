@@ -21,8 +21,17 @@ body {
 }
 
 a {
-  color: #C57B57;
+  color: #F46036;
   text-decoration: none;
   -webkit-transition: color ease-in-out 0.2s;
   transition: color ease-in-out 0.2s;
+  background-color: transparent;
+}
+
+a:active, a:hover {
+  outline: 0;
+}
+
+a:hover, a:active, a:focus {
+  color: #659157;
 }

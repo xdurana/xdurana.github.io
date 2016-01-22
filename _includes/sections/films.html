@@ -1,9 +1,9 @@
 <section class="section">
-  <h2 class="section-title logo"><span>Films</span></h2>
+  <h2 class="section-title logo"><span>What I'm watching</span></h2>
   <ul class="list">
     {% for item in site.data.films  %}
       <li>
-        <p><a href="{{ item.url }}">{{ item.title }}</a> <span>{{ item.date }}</span></p>
+        <p><a href="{{ item.url }}">{{ item.title }}</a> <span>{{ item.director }}</span></p>
       </li>
     {% endfor %}
   </ul>
