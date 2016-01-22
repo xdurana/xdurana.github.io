@@ -27,6 +27,6 @@ a {
   transition: color ease-in-out 0.2s;
 
   @include on-event {
-    color: rgba(#000, .5);
+    color: rgba(#ec2028, .5);
   }
 }
