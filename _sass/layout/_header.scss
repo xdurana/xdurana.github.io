@@ -3,17 +3,6 @@
    ========================================================================== */
 
 .header {
-    border-top: 5px solid #ccc;
-    border-bottom: 1px solid #d9d9d9;
-    margin-bottom: .75em;
-    min-height: 80px;
-}
-
-.square {
-  padding: 0px;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 800px;
 }
 
 .logo {
@@ -28,23 +17,5 @@
 
   span {
     font-weight: 700;
-  }
-}
-
-.nav {
-  min-height: 64px;
-}
-
-.navbar {
-  float: right;
-  margin: 0;
-  position: relative;
-  padding: 0;
-  pointer-events: all;
-  cursor: pointer;
-
-  li {
-    display: inline-block;
-    padding: 0 .6em;
   }
 }
