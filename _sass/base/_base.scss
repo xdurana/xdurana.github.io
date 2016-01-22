@@ -12,21 +12,21 @@ html {
 
 body {
   padding: 100px 20px;
-  background: #e57928;
+  background: #fff;
   font-family: $f-sans-serif;
   font-size: 18px;
   line-height: 1.6;
-  color: #fff;
+  color: #000;
   -webkit-font-smoothing: antialiased;
 }
 
 a {
-  color: #fff;
+  color: #000;
   text-decoration: none;
   -webkit-transition: color ease-in-out 0.2s;
   transition: color ease-in-out 0.2s;
 
   @include on-event {
-    color: rgba(#fff, .5);
+    color: rgba(#000, .5);
   }
 }
