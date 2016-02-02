@@ -2,6 +2,26 @@
   description:
   url: http://banavil.pasuncami.cat
   date: 2015
+  
+- title: Machine learning & computational neuroscience resource list
+  description:
+  url: http://xdurana.github.io/machine-learning/
+  date: 2015
+
+- title: Computational models of the vestibulo-ocular reflex
+  description:
+  url: http://xdurana.github.io/vor/
+  date: 2015
+  
+- title: Simulating Braitenberg's vehicles on Player/Stage
+  description:
+  url: http://xdurana.github.io/vehicles/
+  date: 2014
+
+- title: Effects of Beta and Delta/Theta Binaural Beats on Stroop Test
+  description:
+  url: http://xdurana.github.io/binaural/
+  date: 2014
 
 - title: LibTechNotes
   description:
