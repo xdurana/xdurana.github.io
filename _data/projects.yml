@@ -1,3 +1,8 @@
+- title: FIDE chess ratings R package
+  description:
+  url: https://github.com/xdurana/fider
+  date: 2017
+  
 - title: Association rule mining within a medication and conditions dataset
   description:
   url: https://github.com/xdurana/medsnrules
