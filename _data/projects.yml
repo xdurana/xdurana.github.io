@@ -7,12 +7,7 @@
   description:
   url: https://github.com/xdurana/medsnrules
   date: 2016
-  
-- title: Desplaçats de Banavil
-  description:
-  url: http://banavil.pasuncami.cat
-  date: 2015
-  
+
 - title: Machine learning & computational neuroscience resource list
   description:
   url: http://xdurana.github.io/machine-learning/
@@ -33,9 +28,14 @@
   url: http://xdurana.github.io/binaural/
   date: 2014
   
+- title: Learning Record Store
+  description:
+  url: http://xdurana.github.io/lrs/
+  date: 2014
+
 - title: A RESTful API gateway to Summon API
   description:
-  url: http://xdurana.github.io/apila
+  url: http://xdurana.github.io/apila/
   date: 2013
 
 - title: LibTechNotes

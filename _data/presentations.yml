@@ -1,0 +1,36 @@
+- title: Significant pattern mining on GWAS data
+  description:
+  url: https://github.com/xdurana/slides/raw/master/vignettes/lamp/lamplink.pdf
+  date: 2017-02-15
+
+- title: Pathway analysis of lung cancer associated variants
+  description:
+  url: https://github.com/xdurana/slides/raw/master/vignettes/gsa/gsa.pdf
+  date: 2016-12-13
+
+- title: Association rules between autoreported diseases and medication
+  description:
+  url: https://github.com/xdurana/slides/raw/master/vignettes/medsnrules/medsnrules.pdf
+  date: 2016-11-29
+
+- title: Disease comorbidity networks
+  description:
+  url: https://github.com/xdurana/slides/raw/master/vignettes/comorbidity-network/comorbidity%20networks.pdf
+  date: 2016-09-20
+
+- title: GCAT Questionnaire data cleaning
+  description:
+  url: https://github.com/xdurana/slides/raw/master/vignettes/data-cleaning/data-cleaning.pdf
+  date: 2016-06-15
+
+- title: Random forests and phenome-wide association studies
+  description:
+  url: https://github.com/xdurana/slides/raw/master/vignettes/random-forests/PheWASRF.pdf
+  date: 2016-04-27
+
+- title: Nucleo-olivary inhibition explains extinction on a computational model of the vestibulo-ocular reflex
+  description:
+  url: https://github.com/xdurana/vor/raw/gh-pages/slides/final/final.pdf
+  date: 2015-07-07
+
+
